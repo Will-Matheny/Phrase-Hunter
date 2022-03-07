@@ -1,4 +1,4 @@
-from phrasehunter.game import Game
+from game import Game
 
 
 if __name__ == '__app__':
