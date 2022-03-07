@@ -1,4 +1,4 @@
-from phrasehunter.phrase import Phrase
+from phrase import Phrase
 import random
 
 
